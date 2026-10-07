@@ -1,0 +1,15 @@
+../Core/Src/main.c:79:5:main	8
+../Core/Src/main.c:169:6:SystemClock_Config	3
+../Core/Src/main.c:210:13:MX_I2C1_Init	2
+../Core/Src/main.c:232:13:MX_TIM2_Init	7
+../Core/Src/main.c:283:13:MX_GPIO_Init	1
+../Core/Src/main.c:321:10:HCSR04_Read_Distance	7
+../Core/Src/main.c:346:6:Handle_Buzzer_Alarm	3
+../Core/Src/main.c:360:6:LCD_Send_Nibble	3
+../Core/Src/main.c:372:6:LCD_Send_Cmd	1
+../Core/Src/main.c:379:6:LCD_Send_Data	1
+../Core/Src/main.c:386:6:LCD_Init	1
+../Core/Src/main.c:402:6:LCD_Set_Cursor	2
+../Core/Src/main.c:408:6:LCD_Send_String	2
+../Core/Src/main.c:414:6:LCD_Clear	1
+../Core/Src/main.c:423:6:Error_Handler	1

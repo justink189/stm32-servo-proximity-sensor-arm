@@ -1,0 +1,15 @@
+../Core/Src/main.c:79:5:main	48	static
+../Core/Src/main.c:169:6:SystemClock_Config	88	static
+../Core/Src/main.c:210:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:232:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:283:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:321:10:HCSR04_Read_Distance	32	static
+../Core/Src/main.c:346:6:Handle_Buzzer_Alarm	16	static
+../Core/Src/main.c:360:6:LCD_Send_Nibble	24	static
+../Core/Src/main.c:372:6:LCD_Send_Cmd	16	static
+../Core/Src/main.c:379:6:LCD_Send_Data	16	static
+../Core/Src/main.c:386:6:LCD_Init	8	static
+../Core/Src/main.c:402:6:LCD_Set_Cursor	24	static
+../Core/Src/main.c:408:6:LCD_Send_String	16	static
+../Core/Src/main.c:414:6:LCD_Clear	8	static
+../Core/Src/main.c:423:6:Error_Handler	4	static,ignoring_inline_asm
